@@ -4,13 +4,13 @@
 
 ## Developed
 
-Data exploration
-Feature engineering
-Train, Test and Evaluate different models
-Tunning parameter
-Train model
-Predict
-Submit
+* Data exploration
+* Feature engineering
+* Train, Test and Evaluate different models
+* Tunning parameter
+* Train model
+* Predict
+* Submit
 
 
 ###### Libraries
