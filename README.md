@@ -15,7 +15,7 @@
 
 ###### Libraries
 
-Pandas
-Matplotlib
-Sklearn
-XGBoost
+1. Pandas
+2. Matplotlib
+3. Sklearn
+4. XGBoost
