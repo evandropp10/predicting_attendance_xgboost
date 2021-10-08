@@ -4,18 +4,32 @@
 
 ## Developed
 
-* Data exploration
-* Feature engineering
-* Train, Test and Evaluate different models
-* Tunning parameter
-* Train model
-* Predict
-* Submit
+1. Data exploration
+   1. Correlation analysis
+   2. Feature analysis
+   3. Plotting
+2. Feature engineering
+   1. Celaning
+   2. Normalization
+   3. New features
+3. Train, Test and Evaluate different models
+   1. Randon Forest
+   2. Catboost
+   3. XGBoost
+4. Tunning parameter
+   1. Grid parameter
+   2. Cross Validation
+5. Train model
+   1. Training the model
+6. Predict
+   1. Predict futures attendances
+7. Submit
+   1. Submit to challenge
 
 
 ###### Libraries
 
-1. Pandas
-2. Matplotlib
-3. Sklearn
-4. XGBoost
+* Pandas
+* Matplotlib
+* Sklearn
+* XGBoost
