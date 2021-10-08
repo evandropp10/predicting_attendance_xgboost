@@ -1,6 +1,6 @@
 # Predicting Building Attendance with XGBoost
 
-Winner solution for challenge to predict a building attendance based on historical data.
+**Winner** solution for _challenge to predict a building attendance_ based on historical data.
 
 ## Developed
 
