@@ -33,3 +33,7 @@
 * Matplotlib
 * Sklearn
 * XGBoost
+
+#### Data Science Challenge ENGIE
+
+![Leaderboard](img/engie_challenge.jpeg)
